@@ -1,0 +1,29 @@
+Data Preparation
+    - Data Selection
+    - Data Cleaning
+    - Data
+
+Modelling
+    - Classification => Accuracy
+    - Regression (สมการเชิงเส้น) => RMSE
+    - Association Rule => Confidence Support
+    - Clustering => RMSE
+
+Supervised Learning => มีคำตอบ
+๊ืUnsupervised Learning => ไม่ได้บอกคำตอบ (ให้คอมจัดหมวดหมู่เอง)
+
+Evaluation
+    - Accuracy
+    - RMSE
+    - Confidence Support
+
+ในภาคธุรกิจ ต้องเข้าใจ Business ด้วย
+
+Math that we use (The Central Moment of Feature)
+    - ค่าเฉลี่ย
+    - การกระจาย
+    - ความเบ้ของข้อมูล
+    - ความโต่งของข้อมูล (Kurtosis) => ความถี่ของข้อมูลที่อยู่ ณ จุดๆนั้น
+
+Correlation สามารถใช้ได้เฉพาะข้อมูลที่ต่อเนื่อง เป็น Numerical หรือพล็อตกราฟได้เท่านั้น
+
