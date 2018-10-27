@@ -1,0 +1,10 @@
+Method => หลาย Function
+
+Local กับ Global Variable
+
+
+
+Global => ใช้ที่ไหนก็ได้
+Local => เฉพาะที่
+
+conda create --name weeraya python=3.6 => สำหรับสร้าง Environment ใหม่ใน Anaconda

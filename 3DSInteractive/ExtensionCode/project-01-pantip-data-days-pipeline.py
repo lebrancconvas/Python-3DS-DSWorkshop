@@ -18,7 +18,7 @@ import progressbar
 
 tag_value = "สถานที่ท่องเที่ยวต่างประเทศ"
 last_id = 0
-n_page = 100
+n_page = 1
 
 ACCESS_TOKEN = "xFxSCXHfq1LUBW6eYGUNzeX4KrCv1IAfNFFEuc4aLll"
 
@@ -109,7 +109,7 @@ def saveTitleAndDescriptionTopic(titles, descriptions, tag_list):
         pantip_data += (i + "|" + j + "|" + ','.join(k) + "\n")
 
     # ส่วน Save Text files            
-    with open('output-data/travel_topic_des_22102018/travel_and_des.txt', 'a', encoding='utf-8') as out:
+    with open('../output-data/travel_topic_des_22102018/travel_and_des.txt', 'a', encoding='utf-8') as out:
         out.write(pantip_data)
     out.close()
 
