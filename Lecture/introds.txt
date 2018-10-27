@@ -1,3 +1,5 @@
+==My Lecture==
+
 Data Preparation
     - Data Selection
     - Data Cleaning
@@ -26,4 +28,6 @@ Math that we use (The Central Moment of Feature)
     - ความโต่งของข้อมูล (Kurtosis) => ความถี่ของข้อมูลที่อยู่ ณ จุดๆนั้น
 
 Correlation สามารถใช้ได้เฉพาะข้อมูลที่ต่อเนื่อง เป็น Numerical หรือพล็อตกราฟได้เท่านั้น
+
+
 
